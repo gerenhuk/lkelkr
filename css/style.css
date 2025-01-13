@@ -86,6 +86,11 @@ h2 {
   border: 1px solid #000;
   border-right: none;
   padding-top: 30px;
+
+  position: relative;
+  img {
+    height: 400px;
+  }
 }
 
 /* скролл */
